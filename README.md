@@ -10,3 +10,10 @@ This tool solves the problem of needing a quick and lightweight way to track nut
 
 ```bash
 git clone https://github.com/engelb-er/macro-tracker-cli.git
+
+## Running Tests
+
+To run the test suite:
+
+```bash
+pytest

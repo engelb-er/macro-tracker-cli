@@ -1,0 +1,3 @@
+# AI Usage Documentation
+
+AI helped me to complete this project. Once I came up with the idea for my project it helped me to write the code for python in order to handle command-line arguments and write test using pytest. After looking over the outcome of the code and ensuring that it acomplishes the goal. I tested all of my code and AI helped me trouble shoot any errors I got along the way as well. I learned alot about how to use AI to write code and tell it to edit certain things that are either incorrect or I would like to do a different way. 
