@@ -128,11 +128,7 @@ All tests should pass and verify that the program works correctly.
 
 - The app does not currently support tracking meals by date  
 - Meals cannot be edited or deleted once added  
-- Data is stored locally and not synced across devices  
+
 
 Future improvements could include:
-- Adding date-based tracking  
 - Editing or deleting meals  
-- Weekly or monthly summaries  
-- Exporting data to CSV  
-- Adding a graphical user interface  
