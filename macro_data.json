@@ -1,0 +1,32 @@
+{
+    "meals": [
+        {
+            "name": "Chicken rice bowl",
+            "calories": 520,
+            "protein": 42,
+            "carbs": 55,
+            "fat": 14
+        },
+        {
+            "name": "Greek yogurt and berries",
+            "calories": 250,
+            "protein": 20,
+            "carbs": 30,
+            "fat": 4
+        },
+        {
+            "name": "Turkey sandwich",
+            "calories": 450,
+            "protein": 35,
+            "carbs": 45,
+            "fat": 12
+        }
+    ],
+    "goals": {
+        "name": "Daily Goals",
+        "calories": 2000,
+        "protein": 130,
+        "carbs": 220,
+        "fat": 60
+    }
+}
