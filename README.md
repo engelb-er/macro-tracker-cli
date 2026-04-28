@@ -1,8 +1,8 @@
-## Macro Tracker CLI
+# Macro Tracker CLI
 
 Macro Tracker CLI is a simple command-line application for tracking daily calories and macronutrients. Users can add meals with calories, protein, carbohydrates, and fat, then view a daily summary of their totals. It also shows how many macros they have remaining for the day. Users can set daily calorie and macro goals, allowing the program to track progress and help them stay on track.
 
-This tool solves the problem of needing a quick and lightweight way to track nutrition without using a full mobile app. It stores meal and goal data locally in a JSON file, so users can keep track of their daily intake directly from the terminal.
+This tool solves the problem of needing a quick and lightweight way to track nutrition without using a full mobile app. 
 
 ---
 
@@ -127,4 +127,12 @@ All tests should pass and verify that the program works correctly.
 ## Known Limitations and Future Ideas
 
 - The app does not currently support tracking meals by date  
-- Meals cannot be edited or deleted once added if you only eat a portion of the meal.
+- Meals cannot be edited or deleted once added  
+- Data is stored locally and not synced across devices  
+
+Future improvements could include:
+- Adding date-based tracking  
+- Editing or deleting meals  
+- Weekly or monthly summaries  
+- Exporting data to CSV  
+- Adding a graphical user interface  
